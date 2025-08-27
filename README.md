@@ -31,4 +31,4 @@ The project uses two datasets provided by KFS:
 ## How to Run
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/KFS_Loan_Data_Analytics.git
+git clone [https://github.com/yourusername/KFS_Loan_Data_Analytics.git](https://colab.research.google.com/drive/1knI4eRBJq5rcg_8B7elqxILQx09B87ch?usp=sharing#scrollTo=2f56b31c-dca5-4777-b0c9-092e326bec6a)
